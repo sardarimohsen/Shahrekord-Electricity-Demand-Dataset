@@ -105,4 +105,15 @@ If you use this model or dataset in your research, please cite our paper publish
   publisher={Sharif University of Technology},
   doi={10.24200/sci.2021.56343.4673}
 }
+
+@article{neshatapplication,
+  title={Application of Deep Learning Models Based on Fully-Connected and Recurrent Neural Networks to Residual Peak Load Forecasting},
+  author={Neshat, N and S‌a‌r‌d‌a‌r‌i‌z‌a‌r‌c‌h‌i, M and Mahlooji, H},
+  journal={Sharif Journal of Industrial Engineering \& Management},
+  volume={36},
+  number={1.2},
+  pages={103--111},
+  year={2020}
+}
+
 ```
