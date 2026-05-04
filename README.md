@@ -9,7 +9,7 @@ The core contribution of this repository is the open release of the **The Shahre
 
 ### **Dataset Overview**
 * **Location:** Shahrekord, Iran.
-* **Duration:** 3 Full Years (March 3, 2015 – March 3, 2018).
+* **Duration:** 4 Full Years (March 3, 2015 – March 3, 2019).
 * **Temporal Resolution:** 1-hour intervals (recorded hourly).
 * **Total Samples:** 30,768 unique hourly observations.
 * **Dimensionality:** 23 distinct determinants + 1 target variable (actual load value).
