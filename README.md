@@ -1,10 +1,7 @@
 # The Shahrekord Electricity Demand Dataset
-
+---
 [![Scientia Iranica](https://img.shields.io/badge/Paper-Scientia%20Iranica-blue)](https://doi.org/10.24200/sci.2021.56343.4673)
 
-This repository hosts the ** Shahrekord Shahrekord Electricity Demand Dataset** and the code for foundational publications exploring deep learning architectures for energy demand and residual peak load forecasting.
-
----
 
 ## 📊 The Shahrekord Electricity Demand Dataset
 
